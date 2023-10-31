@@ -1,0 +1,24 @@
+p, li{
+  font-size:25px;
+}
+img{
+  float: right;
+  width:220px;
+}
+a{
+  font-size:25px;
+}
+.baby{
+  float: right;
+  width:285px;
+}
+span{
+  color: #737373;
+}
+.top{
+  color:black;
+}
+.ladder{
+  float: right;
+  width:285px;
+}
